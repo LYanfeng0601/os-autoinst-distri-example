@@ -7,5 +7,7 @@ use testapi;
 use autotest;
 
 autotest::loadtest 'tests/boot.pm';
+autotest::loadtest 'tests/uos_login.pm';
+autotest::loadtest 'tests/uos_desktop.pm';
 
 1;

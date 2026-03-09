@@ -1,0 +1,13 @@
+{
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 200,
+      "width": 400,
+      "height": 200,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "tags": ["uos-login"]
+}
