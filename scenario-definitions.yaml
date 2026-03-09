@@ -8,6 +8,7 @@ products:
 machines:
   64bit:
     backend: "qemu"
+    UEFI: "1"
 job_templates:
   simple_boot:
     product: "example"
