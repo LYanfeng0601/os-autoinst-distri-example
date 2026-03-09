@@ -1,0 +1,13 @@
+{
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 120,
+      "width": 624,
+      "height": 380,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "tags": ["uos-boot-menu", "bootloader"]
+}

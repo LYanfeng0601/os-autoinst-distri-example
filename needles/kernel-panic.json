@@ -1,0 +1,13 @@
+{
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 200,
+      "width": 900,
+      "height": 200,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "tags": ["kernel-panic"]
+}
